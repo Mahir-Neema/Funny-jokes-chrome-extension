@@ -1,0 +1,13 @@
+
+p{
+    margin: 3px;
+    background-color: rgba(74, 5, 117, 0.991);
+    color: white;
+    padding: 10px;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-size: 17px;
+    min-width: 100px;
+    width: 300px;
+    border-radius: 4px;
+    box-shadow: rgba(135, 135, 151, 0.2) 0px 7px 29px 0px;
+}
